@@ -1,0 +1,5 @@
+# Queries
+```
+select *
+from dual;
+```
